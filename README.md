@@ -1,0 +1,1 @@
+# Earthquake-Risk-Reduction-Using-Deep-Learning-And-seismic-Data
